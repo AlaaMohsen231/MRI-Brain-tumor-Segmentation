@@ -223,7 +223,7 @@ def about():
         st.write("Senior in Computer Engineering Faculty at Ain Shams University")
         st.link_button("LinkedIn","https://www.linkedin.com/in/alaa-mohsen-b5422921b")
     st.subheader("Supervisor: Eng/Mahmoud Talaat")
-    st.write("AI Engineer at Ministry of Communication and Information System, TA at Zewail University and Instractor at DEPI")
+    st.write("AI Engineer at Ministry of Communication and Information System, TA at Zewail University and Instructor at DEPI")
     st.link_button("LinkedIn","https://www.linkedin.com/in/mahmoud-talaat-598277286/")
    
 def contact():
