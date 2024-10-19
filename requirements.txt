@@ -8,9 +8,6 @@ keras-models==0.0.7
 numpy==1.26.4
 opencv-python==4.10.0.84
 tensorflow==2.17.0
-tensorflow-datasets==4.9.6
-tensorflow-intel==2.17.0
-tensorflow-metadata==1.16.1
 tf_keras==2.17.0
 tokenizers==0.20.1
 transformers==4.45.2
