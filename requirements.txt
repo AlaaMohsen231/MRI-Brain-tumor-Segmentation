@@ -7,9 +7,6 @@ keras-cv==0.9.0
 keras-models==0.0.7
 numpy==1.26.4
 opencv-python==4.10.0.84
-PyQt5==5.15.10
-PyQtWebEngine==5.15.6
-pywin32==305.1
 tensorflow==2.17.0
 tensorflow-datasets==4.9.6
 tensorflow-intel==2.17.0
